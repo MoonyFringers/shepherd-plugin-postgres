@@ -1,3 +1,12 @@
 {
-  "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "giubacc",
+      "id": 99738959,
+      "comment_id": 4201921934,
+      "created_at": "2026-04-07T20:15:26Z",
+      "repoId": 1011951362,
+      "pullRequestNo": 1
+    }
+  ]
 }
