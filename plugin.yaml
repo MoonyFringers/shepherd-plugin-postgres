@@ -1,0 +1,15 @@
+id: postgres
+name: Shepherd Postgres Plugin
+version: 0.0.0
+plugin_api_version: 1
+description: Manage PostgreSQL database services from the Shepherd CLI.
+entrypoint:
+  module: postgres_plugin.main
+  class: PostgresPlugin
+capabilities:
+  commands: true
+  completion: true
+  templates: false
+  env_factories: false
+  svc_factories: false
+default_config: {}
