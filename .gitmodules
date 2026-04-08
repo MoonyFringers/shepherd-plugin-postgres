@@ -1,0 +1,3 @@
+[submodule "shepherd"]
+	path = shepherd
+	url = https://github.com/MoonyFringers/shepherd
